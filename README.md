@@ -4,3 +4,7 @@
  2.Simple UI and Sound effect is added to make it interesting.
  
  3.Try it once ,You will definely have a fun.
+
+<img src="https://user-images.githubusercontent.com/55937021/104404511-d30dbd80-5580-11eb-82ca-77dc32a77a04.png" alt="ScreenShot" width=650/>
+<img src="https://user-images.githubusercontent.com/55937021/104404510-d2752700-5580-11eb-9e3f-95e8eb61202c.png" alt="ScreenShot" width=650/>
+<img src="https://user-images.githubusercontent.com/55937021/104404501-d143fa00-5580-11eb-86d8-668d1062cd67.png" alt="ScreenShot" width=650/>
